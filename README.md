@@ -16,7 +16,7 @@ This project is an expense management system that consists of a Streamlit fronte
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/soupra2003/expense-management-system.git
+   git clone https://github.com/Soupra2003/Expense-Management-System.git
    cd expense-management-system
    ```
 1. **Install dependencies:**:   
